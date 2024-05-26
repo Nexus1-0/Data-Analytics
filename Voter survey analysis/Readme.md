@@ -8,7 +8,7 @@ b) If the researchers would like to estimate a sample size for the study, and th
 
 2. a) Perform a statistical hypothesis test using 5% as the level of significance to see  if the average arm span for the 11th graders in Ohio is more than 160 cm. You  must state null and alternative hypothesis, check normality assumption, report  test statistic value, report p-value, and draw a proper conclusion. (mean=200)
 Null hypothesis: The average arm span for the students is 160cm 
-Alternative hypothesis: The average arm span for students is more than 160 cm 
+Alternative hypothesis: The average arm span for students is more than 160 cm.
 Report p-value from the normality test, make a quantile-comparison plot, and  draw a conclusion. 
 
 b) Find the 95% confidence interval for estimating the average arm span for  the sampled population.
